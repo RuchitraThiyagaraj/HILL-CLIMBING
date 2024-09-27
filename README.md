@@ -39,6 +39,7 @@ Feedback is provided in terms of heuristic function
 <p> Lopp Step -2 and Step-3  until we achieve the score to be Zero to achieve Global Minima.</p>
 
 ```
+<h2>PROGRAM</h2>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
